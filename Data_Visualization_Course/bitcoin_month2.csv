@@ -1,4 +1,4 @@
-,unix,date,symbol,open,high,low,close,Volume BTC,Volume USDT,tradecount,year,month
+,unix,month_num,symbol,open,high,low,close,Volume BTC,Volume USDT,tradecount,year,month
 0,1504137600,1,BTC/USDT,4555.14,4745.42,4555.14,4724.89,550.18,2548384.43,,2017,8
 1,1506729600,2,BTC/USDT,4174.69,4380,4138.1,4378.51,705.52,3025265.75,,2017,9
 2,1509408000,3,BTC/USDT,6120.5,6498.01,6100,6463,1498.91,9405855.26,,2017,10
